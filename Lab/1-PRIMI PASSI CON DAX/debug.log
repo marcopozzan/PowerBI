@@ -1,0 +1,4 @@
+[0427/100903.086:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
+[0520/104222.061:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
+[0520/104222.063:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Admin\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\b02fe175-d0f9-4d94-9aa6-bc16461d3baf: Impossibile trovare il percorso specificato. (0x3)
+[0520/105450.719:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
