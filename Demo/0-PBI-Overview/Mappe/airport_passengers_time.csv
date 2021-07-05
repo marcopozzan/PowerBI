@@ -1,0 +1,750 @@
+Airport;Location;Country;CodeIATA;CodeICAO;TotalPassengers;Year;Date
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia, United States;;ATL;;80162407;2000;31/12/2000
+O'Hare International Airport;Chicago, Illinois, United States;;ORD;;72144244;2000;31/12/2000
+Los Angeles International Airport;Los Angeles, California United States;;LAX;;66424767;2000;31/12/2000
+London Heathrow Airport;Hillingdon, Greater London, United Kingdom;;LHR;;64606826;2000;31/12/2000
+Dallas-Fort Worth International Airport;Dallas/Fort Worth, Texas, United States;;DFW;;60687122;2000;31/12/2000
+Tokyo International Airport;?ta, Tokyo, Kant?, Honsh?, Japan;;HND;;56402206;2000;31/12/2000
+Frankfurt Airport;Frankfurt, Hesse, Germany;;FRA;EDDF;49360630;2000;31/12/2000
+Paris-Charles de Gaulle Airport;Roissy-en-France, Paris, Île-de-France, France;;CDG;LFPG;48246137;2000;31/12/2000
+San Francisco International Airport;San Francisco, (unincorporated), California, United States;;SFO;;41040995;2000;31/12/2000
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland, Netherlands;;AMS;EHAM;39606925;2000;31/12/2000
+Denver International Airport;Denver, Colorado, United States;;DEN;;38751687;2000;31/12/2000
+McCarran International Airport;Las Vegas, Clark, Nevada, United States;;LAS;;36865866;2000;31/12/2000
+Minneapolis-Saint Paul International Airport;Minneapolis-Saint Paul, Minnesota, United States;;MSP;;36751632;2000;31/12/2000
+Gimpo International Airport;Seoul, South Korea;;GMP;;36727124;2000;31/12/2000
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona, United States;;PHX;;36040469;2000;31/12/2000
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan, United States;;DTW;;35535080;2000;31/12/2000
+George Bush Intercontinental Airport;Houston, Texas, United States;;IAH;;35251372;2000;31/12/2000
+Newark Liberty International Airport;Newark, New Jersey, United States;;EWR;;34188468;2000;31/12/2000
+Miami International Airport;Miami, Florida, United States;;MIA;;33621273;2000;31/12/2000
+Madrid-Barajas Airport;Barajas, Madrid, Spain;;MAD;;32893190;2000;31/12/2000
+John F. Kennedy International Airport;Queens, New York City, New York, United States;;JFK;;32856220;2000;31/12/2000
+Hong Kong International Airport;Chek Lap Kok, Hong Kong, China;;HKG;;32752359;2000;31/12/2000
+London Gatwick Airport;Crawley, West Sussex, South East, England, United Kingdom;;LGW;;32065685;2000;31/12/2000
+Orlando International Airport;Orlando, Florida, United States;;MCO;;30823509;2000;31/12/2000
+Lambert-Saint Louis International Airport;Saint Louis, Missouri, United States;;STL;;30561387;2000;31/12/2000
+Bangkok International Airport;Bangkok, Thailand;;BKK;;29616432;2000;31/12/2000
+Toronto Pearson International Airport;Mississauga, Ontario, Canada;;YYZ;;28930036;2000;31/12/2000
+Singapore Changi Airport;Changi, Singapore;;SIN;;28618200;2000;31/12/2000
+Seattle-Tacoma International Airport;SeaTac, Washington, United States;;SEA;;28408553;2000;31/12/2000
+Logan International Airport;Boston and Town of Winthrop, Massachusetts, United States;;BOS;;27412926;2000;31/12/2000
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia, United States;;ATL;KATL;75858590;2001;31/12/2001
+O'Hare International Airport;Chicago, Illinois, United States;;ORD;KORD;67448064;2001;31/12/2001
+Los Angeles International Airport;Los Angeles, California, United States;;LAX;KLAX;61606204;2001;31/12/2001
+London Heathrow Airport;Hillingdon, Greater London, United Kingdom;;LHR;EGLL;60743084;2001;31/12/2001
+Tokyo International Airport;?ta, Tokyo, Kant?, Honsh?, Japan;;HND;RJTT;58692688;2001;31/12/2001
+Dallas-Fort Worth International Airport;Dallas/Fort Worth, Texas, United States;;DFW;KDFW;55150693;2001;31/12/2001
+Frankfurt Airport;Frankfurt, Hesse, Germany;;FRA;EDDF;48559980;2001;31/12/2001
+Paris-Charles de Gaulle Airport;Roissy-en-France, Paris, Île-de-France, France;;CDG;LFPG;47996529;2001;31/12/2001
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland, Netherlands;;AMS;EHAM;39531123;2001;31/12/2001
+Denver International Airport;Denver, Colorado, United States;;DEN;KDEN;36092806;2001;31/12/2001
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona, United States;;PHX;KPHL;35439031;2001;31/12/2001
+McCarran International Airport;Las Vegas, Nevada, Nevada, United States;;LAS;KLAS;35180960;2001;31/12/2001
+George Bush Intercontinental Airport;Houston, Texas, United States;;IAH;KIAH;34803580;2001;31/12/2001
+San Francisco International Airport;San Francisco, California, United States;;SFO;KSFO;34632474;2001;31/12/2001
+Minneapolis-Saint Paul International Airport;Minneapolis-Saint Paul, Minnesota, United States;;MSP;KMSP;34308389;2001;31/12/2001
+Madrid-Barajas Airport;Barajas, Madrid, Spain;;MAD;LEMD;34047931;2001;31/12/2001
+Hong Kong International Airport;Chek Lap Kok, Hong Kong, China;;HKG;VHHH;32546029;2001;31/12/2001
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan, United States;;DTW;KDTW;32294121;2001;31/12/2001
+Miami International Airport;Miami, Florida, United States;;MIA;KMIA;31668450;2001;31/12/2001
+London Gatwick Airport;Crawley, West Sussex, England, United Kingdom;;LGW;EGKK;31182364;2001;31/12/2001
+Bangkok International Airport;Don Mueang, Bangkok, Greater Bangkok, Central, Thailand;;DMK;VTBD;30623366;2001;31/12/2001
+Newark Liberty International Airport;Newark, New Jersey, United States;;EWR;KEWR;30558000;2001;31/12/2001
+John F. Kennedy International Airport;Queens, New York, New York, United States;;JFK;KJFK;29349000;2001;31/12/2001
+Orlando International Airport;Orlando, Florida, United States;;MCO;KMCO;28253248;2001;31/12/2001
+Singapore Changi Airport;Changi, Singapore;;SIN;WSSS;28093759;2001;31/12/2001
+Toronto Pearson International Airport;Mississauga, Ontario, Canada;;YYZ;CYYZ;28042692;2001;31/12/2001
+Seattle-Tacoma International Airport;SeaTac, Washington, United States;;SEA;KSEA;27036073;2001;31/12/2001
+Lambert-Saint Louis International Airport;Saint Louis, Missouri, United States;;STL;KSTL;26695019;2001;31/12/2001
+Leonardo da Vinci Airport;Fiumicino, Rome, Lazio, Italy;;FCO;LIRF;25565727;2001;31/12/2001
+Narita International Airport;Narita, Chiba, Kant?, Honsh?, Japan;;NRT;RJAA;25379370;2001;31/12/2001
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia, United States;;ATL;KATL;76876128;2002;31/12/2002
+O'Hare International Airport;Chicago, Illinois, United States;;ORD;KORD;66565952;2002;31/12/2002
+London Heathrow Airport;Hillingdon, Greater London, United Kingdom;;LHR;EGLL;63338641;2002;31/12/2002
+Tokyo International Airport;?ta, Tokyo, Kant?, Honsh?, Japan;;HND;RJTT;61079478;2002;31/12/2002
+Los Angeles International Airport;Los Angeles, California United States;;LAX;KLAX;56223843;2002;31/12/2002
+Dallas-Fort Worth International Airport;Dallas/Fort Worth, Texas, United States;;DFW;KDFW;52828573;2002;31/12/2002
+Frankfurt Airport;Frankfurt, Hesse, Germany;;FRA;EDDF;48450357;2002;31/12/2002
+Paris-Charles de Gaulle Airport;Roissy-en-France, Paris, Île-de-France, France;;CDG;LFPG;48350172;2002;31/12/2002
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland, Netherlands;;AMS;EHAM;40736009;2002;31/12/2002
+Denver International Airport;Denver, Colorado, United States;;DEN;KDEN;35651098;2002;31/12/2002
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona, United States;;PHX;KPHL;35547167;2002;31/12/2002
+McCarran International Airport;Las Vegas, Nevada, Nevada, United States;;LAS;KLAS;35009011;2002;31/12/2002
+Madrid-Barajas Airport;Barajas, Madrid, Spain;;MAD;LEMD;33913456;2002;31/12/2002
+George Bush Intercontinental Airport;Houston, Texas, United States;;IAH;KIAH;33905253;2002;31/12/2002
+Hong Kong International Airport;Chek Lap Kok, Hong Kong, China;;HKG;VHHH;33882463;2002;31/12/2002
+Minneapolis-Saint Paul International Airport;Minneapolis-Saint Paul, Minnesota, United States;;MSP;KMSP;32628331;2002;31/12/2002
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan, United States;;DTW;KDTW;32477694;2002;31/12/2002
+Bangkok International Airport;Don Mueang, Bangkok, Greater Bangkok, Central, Thailand;;DMK;VTBD;32182980;2002;31/12/2002
+San Francisco International Airport;San Francisco, California, United States;;SFO;KSFO;31456422;2002;31/12/2002
+Miami International Airport;Miami, Florida, United States;;MIA;KMIA;30060241;2002;31/12/2002
+John F. Kennedy International Airport;Queens, New York, New York, United States;;JFK;KJFK;29943084;2002;31/12/2002
+London Gatwick Airport;Crawley, West Sussex, England, United Kingdom;;LGW;EGKK;29628423;2002;31/12/2002
+Newark Liberty International Airport;Newark, New Jersey, United States;;EWR;KEWR;29202654;2002;31/12/2002
+Singapore Changi Airport;Changi, Singapore;;SIN;WSSS;28979344;2002;31/12/2002
+Narita International Airport;Narita, Chiba, Kant?, Honsh?, Japan;;NRT;RJAA;28883606;2002;31/12/2002
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing, China;;PEK;ZBAA;27159665;2002;31/12/2002
+Seattle-Tacoma International Airport;SeaTac, Washington, United States;;SEA;KSEA;26690843;2002;31/12/2002
+Orlando International Airport;Orlando, Florida, United States;;MCO;KMCO;26653672;2002;31/12/2002
+Toronto Pearson International Airport;Mississauga, Ontario, Canada;;YYZ;CYYZ;25930363;2002;31/12/2002
+Lambert-Saint Louis International Airport;Saint Louis, Missouri, United States;;STL;KSTL;25626114;2002;31/12/2002
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia, United States;;ATL;KATL;79086792;2003;31/12/2003
+O'Hare International Airport;Chicago, Illinois, United States;;ORD;KORD;69508672;2003;31/12/2003
+London Heathrow Airport;Hillingdon, Greater London, United Kingdom;;LHR;EGLL;63487136;2003;31/12/2003
+Tokyo International Airport;?ta, Tokyo, Kant?, Honsh?, Japan;;HND;RJTT;62876269;2003;31/12/2003
+Los Angeles International Airport;Los Angeles, California United States,;;LAX;KLAX;54982838;2003;31/12/2003
+Dallas-Fort Worth International Airport;Dallas/Fort Worth, Texas, United States,;;DFW;KDFW;53253607;2003;31/12/2003
+Frankfurt Airport;Frankfurt, Hesse, Germany;;FRA;EDDF;48351664;2003;31/12/2003
+Paris-Charles de Gaulle Airport;Roissy-en-France, Paris, Île-de-France, France;;CDG;LFPG;48220436;2003;31/12/2003
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland, Netherlands;;AMS;EHAM;39960400;2003;31/12/2003
+Denver International Airport;Denver, Colorado, United States;;DEN;KDEN;37505138;2003;31/12/2003
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona, United States;;PHX;KPHX;37412165;2003;31/12/2003
+McCarran International Airport;Las Vegas, Nevada, Nevada, United States;;LAS;KLAS;36285932;2003;31/12/2003
+Madrid-Barajas Airport;Barajas, Madrid, Spain;;MAD;LEMD;35854293;2003;31/12/2003
+George Bush Intercontinental Airport;Houston, Texas, United States;;IAH;KIAH;34154574;2003;31/12/2003
+Minneapolis-Saint Paul International Airport;Minneapolis-Saint Paul, Minnesota, United States;;MSP;KMSP;33201860;2003;31/12/2003
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan, United States;;DTW;KDTW;32664620;2003;31/12/2003
+John F. Kennedy International Airport;Queens, New York, New York, United States;;JFK;KJFK;31732371;2003;31/12/2003
+Bangkok International Airport;Don Mueang, Bangkok, Greater Bangkok, Central, Thailand;;DMK;VTBD;30175379;2003;31/12/2003
+London Gatwick Airport;Crawley, West Sussex, England, United Kingdom;;LGW;EGKK;30007021;2003;31/12/2003
+Miami International Airport;Miami, Florida, United States;;MIA;KMIA;29595618;2003;31/12/2003
+Newark Liberty International Airport;Newark, New Jersey, United States;;EWR;KEWR;29431061;2003;31/12/2003
+San Francisco International Airport;San Francisco, California, United States;;SFO;KSFO;29313271;2003;31/12/2003
+Orlando International Airport;Orlando, Florida, United States;;MCO;KMCO;27319223;2003;31/12/2003
+Hong Kong International Airport;Chek Lap Kok, Hong Kong, China;;HKG;VHHH;27092290;2003;31/12/2003
+Seattle-Tacoma International Airport;SeaTac, Washington, United States;;SEA;KSEA;26755888;2003;31/12/2003
+Narita International Airport;Narita, Chiba, Kant?, Honsh?, Japan;;NRT;RJAA;26537406;2003;31/12/2003
+Leonardo da Vinci Airport;Fiumicino, Rome, Lazio, Italy;;FCO;LIRF;26284478;2003;31/12/2003
+Sydney Airport;Sydney, New South Wales, Australia;;SYD;YSSY;25333508;2003;31/12/2003
+Toronto Pearson International Airport;Mississauga, Ontario, Canada;;YYZ;CYYZ;24739312;2003;31/12/2003
+Philadelphia International Airport;Philadelphia, Pennsylvania, United States;;PHL;KPHL;24671075;2003;31/12/2003
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia, United States;;ATL;KATL;83606583;2004;31/12/2004
+O'Hare International Airport;Chicago, Illinois, United States;;ORD;KORD;75533822;2004;31/12/2004
+London Heathrow Airport;Hillingdon, Greater London, United Kingdom;;LHR;EGLL;67344054;2004;31/12/2004
+Tokyo International Airport;?ta, Tokyo, Kant?, Honsh?, Japan;;HND;RJTT;62291405;2004;31/12/2004
+Los Angeles International Airport;Los Angeles, California, United States;;LAX;KLAX;60688609;2004;31/12/2004
+Dallas-Fort Worth International Airport;Dallas/Fort Worth, Texas, United States,;;DFW;KDFW;59412217;2004;31/12/2004
+Paris-Charles de Gaulle Airport;Roissy-en-France, Paris, Île-de-France, France;;CDG;LFPG;51260363;2004;31/12/2004
+Frankfurt Airport;Frankfurt, Hesse, Germany;;FRA;EDDF;51098271;2004;31/12/2004
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland, Netherlands;;AMS;EHAM;42541180;2004;31/12/2004
+Denver International Airport;Denver, Colorado, United States;;DEN;KDEN;42393766;2004;31/12/2004
+McCarran International Airport;Las Vegas, Nevada, Nevada, United States;;LAS;KLAS;41411531;2004;31/12/2004
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona, United States;;PHX;KPHX;39493519;2004;31/12/2004
+Madrid-Barajas Airport;Barajas, Madrid, Spain;;MAD;LEMD;38704731;2004;31/12/2004
+Bangkok International Airport;Don Mueang, Bangkok, Greater Bangkok, Central, Thailand;;DMK;VTBD;37960169;2004;31/12/2004
+John F. Kennedy International Airport;Queens, New York, New York, United States;;JFK;KJFK;37518143;2004;31/12/2004
+Minneapolis-Saint Paul International Airport;Minneapolis-St. Paul, Minnesota, United States;;MSP;KMSP;36713173;2004;31/12/2004
+Hong Kong International Airport;Chek Lap Kok, Hong Kong, China;;HKG;VHHH;36711920;2004;31/12/2004
+George Bush Intercontinental Airport;Houston, Texas, United States;;IAH;KIAH;36506116;2004;31/12/2004
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan, United States;;DTW;KDTW;35187517;2004;31/12/2004
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing, China;;PEK;ZBAA;34883190;2004;31/12/2004
+San Francisco International Airport;San Mateo County (unincorporated), California, United States;;SFO;KSFO;32247746;2004;31/12/2004
+Newark Liberty International Airport;Newark, New Jersey, United States;;EWR;KEWR;31947266;2004;31/12/2004
+London Gatwick Airport;Crawley, West Sussex, England, United Kingdom;;LGW;EGKK;31461454;2004;31/12/2004
+Orlando International Airport;Orlando, Florida, United States;;MCO;KMCO;31143388;2004;31/12/2004
+Narita International Airport;Narita, Chiba, Kant?, Honsh?, Japan;;NRT;RJAA;31057252;2004;31/12/2004
+Singapore Changi Airport;Changi, Singapore;;SIN;WSSS;30353565;2004;31/12/2004
+Miami International Airport;Miami, Florida, United States;;MIA;KMIA;30165197;2004;31/12/2004
+Seattle-Tacoma International Airport;SeaTac, Washington, United States;;SEA;KSEA;28804554;2004;31/12/2004
+Toronto Pearson International Airport;Mississauga, Ontario, Canada;;YYZ;CYYZ;28615709;2004;31/12/2004
+Philadelphia International Airport;Philadelphia, Pennsylvania, United States;;PHL;KPHI;28507420;2004;31/12/2004
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;85907423;2005;31/12/2005
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;76510003;2005;31/12/2005
+London Heathrow Airport;Hillingdon, Greater London;United Kingdom;LHR;EGLL;67915403;2005;31/12/2005
+Tokyo International Airport;?ta, Tokyo, Kant?, Honsh?;Japan;HND;RJTT;63282219;2005;31/12/2005
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;61489398;2005;31/12/2005
+Dallas-Fort Worth International Airport;Dallas/Fort Worth, Texas;United States;DFW;KDFW;59176265;2005;31/12/2005
+Paris-Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;CDG;LFPG;53798308;2005;31/12/2005
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;52219412;2005;31/12/2005
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;44163098;2005;31/12/2005
+McCarran International Airport;Las Vegas, Nevada, Nevada;United States;LAS;KLAS;43989982;2005;31/12/2005
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;43387513;2005;31/12/2005
+Madrid-Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;41940059;2005;31/12/2005
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;41885104;2005;31/12/2005
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona;United States;PHX;KPHX;41213754;2005;31/12/2005
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;41004008;2005;31/12/2005
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;40269847;2005;31/12/2005
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;39684640;2005;31/12/2005
+Bangkok International Airport;Don Mueang, Bangkok, Greater Bangkok, Central;Thailand;DMK;VTBD;38985043;2005;31/12/2005
+Minneapolis-Saint Paul International Airport;Fort Snelling, Minnesota;United States;MSP;KMSP;37604373;2005;31/12/2005
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan;United States;DTW;KDTW;36389294;2005;31/12/2005
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;34128048;2005;31/12/2005
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;33999990;2005;31/12/2005
+San Francisco International Airport;San Francisco, California;United States;SFO;KSFO;32803363;2005;31/12/2005
+London Gatwick Airport;Crawley, West Sussex, England;United Kingdom;LGW;EGKK;32784330;2005;31/12/2005
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;32430856;2005;31/12/2005
+Philadelphia International Airport;Philadelphia, Pennsylvania;United States;PHL;KPHL;31495385;2005;31/12/2005
+Narita International Airport;Narita, Chiba, Kant?, Honsh?;Japan;NRT;RJAA;31451274;2005;31/12/2005
+Miami International Airport;Miami, Florida;United States;MIA;KMIA;31008453;2005;31/12/2005
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;29914750;2005;31/12/2005
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;29289026;2005;31/12/2005
+Sydney Airport;Mascot, Sydney, New South Wales;Australia;SYD;YSSY;29234504;2005;31/12/2005
+Leonardo da Vinci Airport;Fiumicino, Rome, Lazio;Italy;FCO;LIRF;28619845;2005;31/12/2005
+Munich Airport;Erding, Bavaria;Germany;MUC;EDDM;28619427;2005;31/12/2005
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;28206052;2005;31/12/2005
+Soekarno-Hatta International Airport;Cengkareng, Jakarta, Java;Indonesia;CGK;WIII;27947482;2005;31/12/2005
+Barcelona–El Prat Airport;El Prat de Llobregat, Catalonia;Spain;BCN;LEBL;27121753;2005;31/12/2005
+Logan International Airport;Boston, Massachusetts;United States;BOS;KBOS;27087905;2005;31/12/2005
+Washington Dulles International Airport;Dulles, Virginia;United States;IAD;KIAD;26842922;2005;31/12/2005
+LaGuardia Airport;Queens, New York, New York;United States;LGA;KLGA;26671787;2005;31/12/2005
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;26223291;2005;31/12/2005
+Paris-Orly Airport;Orly, Île-de-France;France;ORY;LFPO;24860532;2005;31/12/2005
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;24782288;2005;31/12/2005
+Benito Juárez International Airport;Venustiano Carranza, Mexico City;Mexico;MEX;MMMX;24115552;2005;31/12/2005
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;23720185;2005;31/12/2005
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;23558274;2005;31/12/2005
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;23213926;2005;31/12/2005
+Cincinnati/Northern Kentucky International Airport;Hebron, Kentucky;United States;CVG;KCVG;22778785;2005;31/12/2005
+Manchester Airport;Ringway, Manchester, England;United Kingdom;MAN;EGCC;22734350;2005;31/12/2005
+Fort Lauderdale–Hollywood International Airport;Broward County, Florida;United States;FLL;KFLL;22390285;2005;31/12/2005
+Salt Lake City International Airport;Salt Lake City, Utah;United States;SLC;KSLC;22237176;2005;31/12/2005
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;84846639;2006;31/12/2006
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;77028134;2006;31/12/2006
+London Heathrow Airport;Hillingdon, Greater London;United Kingdom;LHR;EGLL;67530197;2006;31/12/2006
+Tokyo International Airport;?ta, Tokyo, Kant?, Honsh?;Japan;HND;RJTT;65810672;2006;31/12/2006
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;61041066;2006;31/12/2006
+Dallas-Fort Worth International Airport;Dallas/Fort Worth, Texas;United States;DFW;KDFW;60226138;2006;31/12/2006
+Paris-Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;CDG;LFPG;56849567;2006;31/12/2006
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;52810683;2006;31/12/2006
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;48654770;2006;31/12/2006
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;47325016;2006;31/12/2006
+McCarran International Airport;Las Vegas, Nevada, Nevada;United States;LAS;KLAS;46193329;2006;31/12/2006
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;46065719;2006;31/12/2006
+Madrid-Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;45501168;2006;31/12/2006
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;43857908;2006;31/12/2006
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;43762282;2006;31/12/2006
+Suvarnabhumi Airport;Racha Thewa, Bang Phli, Samut Prakan, Greater Bangkok;Thailand;BKK;VTBS;42799532;2006;31/12/2006
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;42550432;2006;31/12/2006
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona;United States;PHX;KPHX;41436737;2006;31/12/2006
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;36724167;2006;31/12/2006
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan;United States;DTW;KDTW;35972673;2006;31/12/2006
+Minneapolis-Saint Paul International Airport;Fort Snelling, Minnesota;United States;MSP;KMSP;35612133;2006;31/12/2006
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;35033083;2006;31/12/2006
+Narita International Airport;Narita, Chiba, Kant?, Honsh?;Japan;NRT;RJAA;34975225;2006;31/12/2006
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;34640451;2006;31/12/2006
+London Gatwick Airport;Crawley, West Sussex, England;United Kingdom;LGW;EGKK;34172492;2006;31/12/2006
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;33574807;2006;31/12/2006
+Miami International Airport;Miami, Florida;United States;MIA;KMIA;32533974;2006;31/12/2006
+Philadelphia International Airport;Philadelphia, Pennsylvania;United States;PHL;KPHL;31768272;2006;31/12/2006
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;30792577;2006;31/12/2006
+Munich Airport;Munich, Bavaria;Germany;MUC;EDDM;30757978;2006;31/12/2006
+Soekarno-Hatta International Airport;Cengkareng, Jakarta, Java;Indonesia;CGK;WIII;30583957;2006;31/12/2006
+Sydney Airport;Mascot, Sydney, New South Wales;Australia;SYD;YSSY;30375799;2006;31/12/2006
+Leonardo da Vinci Airport;Fiumicino, Rome, Lazio;Italy;FCO;LIRF;30102097;2006;31/12/2006
+Barcelona–El Prat Airport;El Prat de Llobregat, Catalonia;Spain;BCN;LEBL;30000601;2006;31/12/2006
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;29979097;2006;31/12/2006
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;29693949;2006;31/12/2006
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;28788726;2006;31/12/2006
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;28360723;2006;31/12/2006
+Logan International Airport;Boston, Massachusetts;United States;BOS;KBOS;27725443;2006;31/12/2006
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;26789125;2006;31/12/2006
+LaGuardia Airport;Queens, New York, New York;United States;LGA;KLGA;26571146;2006;31/12/2006
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;26222037;2006;31/12/2006
+Paris-Orly Airport;Orly, Île-de-France;France;ORY;LFPO;25622152;2006;31/12/2006
+Benito Juárez International Airport;Venustiano Carranza, Mexico City;Mexico;MEX;MMMX;24727296;2006;31/12/2006
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;24129748;2006;31/12/2006
+London Stansted Airport;Uttlesford, Essex, England;United Kingdom;STN;EGSS;23686800;2006;31/12/2006
+Atatürk International Airport;Yesilköy, Istanbul;Turkey;IST;LTBA;23261878;2006;31/12/2006
+Washington Dulles International Airport;Dulles, Virginia;United States;IAD;KIAD;22813067;2006;31/12/2006
+Manchester Airport;Ringway, Manchester, England;United Kingdom;MAN;EGCC;22776337;2006;31/12/2006
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;89379287;2007;31/12/2007
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;76177855;2007;31/12/2007
+London Heathrow Airport;Hillingdon, Greater London;United Kingdom;LHR;EGLL;68068304;2007;31/12/2007
+Tokyo International Airport;?ta, Tokyo;Japan;HND;RJTT;66823414;2007;31/12/2007
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;61896075;2007;31/12/2007
+Paris-Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;CDG;LFPG;59922177;2007;31/12/2007
+Dallas-Fort Worth International Airport;Dallas/Fort Worth, Texas;United States;DFW;KDFW;59786476;2007;31/12/2007
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;54161856;2007;31/12/2007
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;53583664;2007;31/12/2007
+Madrid-Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;52122702;2007;31/12/2007
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;49863352;2007;31/12/2007
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;47794994;2007;31/12/2007
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;47716941;2007;31/12/2007
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;47042419;2007;31/12/2007
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;46961011;2007;31/12/2007
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;42998040;2007;31/12/2007
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona;United States;PHX;KPHX;42184515;2007;31/12/2007
+Suvarnabhumi Airport;Racha Thewa, Bang Phli, Samut Prakan, Greater Bangkok;Thailand;BKK;VTBS;41210081;2007;31/12/2007
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;36701556;2007;31/12/2007
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;36480416;2007;31/12/2007
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;36367240;2007;31/12/2007
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan;United States;DTW;KDTW;35983478;2007;31/12/2007
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;35792707;2007;31/12/2007
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;35478146;2007;31/12/2007
+London Gatwick Airport;Crawley, West Sussex, England;United Kingdom;LGW;EGKK;35218374;2007;31/12/2007
+Minneapolis-Saint Paul International Airport;Fort Snelling, Minnesota;United States;MSP;KMSP;35157322;2007;31/12/2007
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;34348110;2007;31/12/2007
+Munich Airport;Erding, Bavaria;Germany;MUC;EDDM;33959422;2007;31/12/2007
+Miami International Airport;Miami, Florida;United States;MIA;KMIA;33740416;2007;31/12/2007
+Charlotte/Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;33165688;2007;31/12/2007
+Leonardo da Vinci Airport;Fiumicino, Rome, Lazio;Italy;FCO;LIRF;32855542;2007;31/12/2007
+Barcelona–El Prat Airport;El Prat de Llobregat, Catalonia;Spain;BCN;LEBL;32794575;2007;31/12/2007
+Soekarno-Hatta International Airport;Cengkareng, Jakarta, Java;Indonesia;CGK;WIII;32458946;2007;31/12/2007
+Sydney Airport;Mascot, Sydney, New South Wales;Australia;SYD;YSSY;32323380;2007;31/12/2007
+Philadelphia International Airport;Philadelphia, Pennsylvania;United States;PHL;KPHL;32211439;2007;31/12/2007
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;31452848;2007;31/12/2007
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;31421801;2007;31/12/2007
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;31296628;2007;31/12/2007
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;30958374;2007;31/12/2007
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;29083510;2007;31/12/2007
+Logan International Airport;Boston, Massachusetts;United States;BOS;KBOS;28102455;2007;31/12/2007
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;26453379;2007;31/12/2007
+Paris-Orly Airport;Orly, Île-de-France;France;ORY;LFPO;26440736;2007;31/12/2007
+Benito Juárez International Airport;Venustiano Carranza, Mexico City;Mexico;MEX;MMMX;25881662;2007;31/12/2007
+Atatürk International Airport;Yesilköy, Istanbul;Turkey;IST;LTBA;25561435;2007;31/12/2007
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;25236400;2007;31/12/2007
+LaGuardia Airport;Queens, New York, New York;United States;LGA;KLGA;25026267;2007;31/12/2007
+Washington Dulles International Airport;Dulles, Virginia;United States;IAD;KIAD;24525487;2007;31/12/2007
+Milan–Malpensa Airport;Varese, Lombardy;Italy;MXP;LIMC;23885391;2007;31/12/2007
+London Stansted Airport;Uttlesford, Essex, England;United Kingdom;STN;EGSS;23686800;2007;31/12/2007
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;90039280;2008;31/12/2008
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;69353876;2008;31/12/2008
+London Heathrow Airport;Hillingdon, Greater London;United Kingdom;LHR;EGLL;67056379;2008;31/12/2008
+Tokyo International Airport;?ta, Tokyo;Japan;HND;RJTT;66754829;2008;31/12/2008
+Paris-Charles de Gaulle Airport;Roissy-en-France, Val d'Oise, Île-de-France;France;CDG;LFPG;60874681;2008;31/12/2008
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;59497539;2008;31/12/2008
+Dallas-Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;57093187;2008;31/12/2008
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;55937289;2008;31/12/2008
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;53467450;2008;31/12/2008
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;51245334;2008;31/12/2008
+Madrid-Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;50824435;2008;31/12/2008
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;47857746;2008;31/12/2008
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;47807816;2008;31/12/2008
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;47430019;2008;31/12/2008
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;43208724;2008;31/12/2008
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;41709389;2008;31/12/2008
+Phoenix Sky Harbor International Airport;Phoenix, Maricopa, Arizona;United States;PHX;KPHX;39891193;2008;31/12/2008
+Suvarnabhumi Airport;Bang Phli, Samut Prakan, Greater Bangkok;Thailand;BKK;VTBS;38603490;2008;31/12/2008
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;37694824;2008;31/12/2008
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;37441440;2008;31/12/2008
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;37234592;2008;31/12/2008
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;35660742;2008;31/12/2008
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;35360848;2008;31/12/2008
+Detroit Metropolitan Wayne County Airport;Romulus, Michigan;United States;DTW;KDTW;35135828;2008;31/12/2008
+Leonardo da Vinci Airport;Fiumicino, Rome, Lazio;Italy;FCO;LIRF;35132224;2008;31/12/2008
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;34739020;2008;31/12/2008
+Munich Airport;Erding, Bavaria;Germany;MUC;EDDM;34530593;2008;31/12/2008
+London Gatwick Airport;Crawley, West Sussex, South East, England;United Kingdom;LGW;EGKK;34214740;2008;31/12/2008
+Miami International Airport;Miami, Florida;United States;MIA;KMIA;34063531;2008;31/12/2008
+Minneapolis-Saint Paul International Airport;Fort Snelling, Minnesota;United States;MSP;KMSP;34056443;2008;31/12/2008
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;33486511;2008;31/12/2008
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;33444814;2008;31/12/2008
+Sydney Airport;Sydney, New South Wales;Australia;SYD;YSSY;33302642;2008;31/12/2008
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;32338902;2008;31/12/2008
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;32187939;2008;31/12/2008
+Soekarno-Hatta International Airport;Cengkareng, Jakarta, Java;Indonesia;CGK;WIII;32172114;2008;31/12/2008
+Philadelphia International Airport;Philadelphia, Pennsylvania;United States;PHL;KPHI;31832419;2008;31/12/2008
+Barcelona Airport;Barcelona, Catalonia;Spain;BCN;LEBL;30195794;2008;31/12/2008
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;30166816;2008;31/12/2008
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;28230017;2008;31/12/2008
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;27529355;2008;31/12/2008
+Atatürk International Airport;Yesilköy, Istanbul;Turkey;IST;LTBA;26364017;2008;31/12/2008
+Benito Juárez International Airport;Mexico City;Mexico;MEX;MMMX;26210217;2008;31/12/2008
+Paris-Orly Airport;Orly;France;ORY;LFPO;26207628;2008;31/12/2008
+Logan International Airport;Boston, Massachusetts;United States;BOS;KBOS;26102391;2008;31/12/2008
+Melbourne Airport;Melbourne, Victoria;Australia;MEL;YMML;24892467;2008;31/12/2008
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;24335306;2008;31/12/2008
+Washington Dulles International Airport;Dulles, Virginia;United States;IAD;KIAD;23698010;2008;31/12/2008
+Dublin Airport;Fingal, County Dublin;Ireland;DUB;EIDW;23466630;2008;31/12/2008
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;23181090;2008;31/12/2008
+Hartsfield-Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;88032086;2009;31/12/2009
+London Heathrow Airport;Hillingdon, Greater London, England;United Kingdom;LHR;EGLL;66037578;2009;31/12/2009
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;65372012;2009;31/12/2009
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;64158343;2009;31/12/2009
+Tokyo International Airport;?ta, Tokyo;Japan;HND;RJTT;61903656;2009;31/12/2009
+Paris-Charles de Gaulle Airport;Roissy-en-France, Val d'Oise, Île-de-France;France;CDG;LFPG;57906866;2009;31/12/2009
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;56520843;2009;31/12/2009
+Dallas-Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;56030457;2009;31/12/2009
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;50932840;2009;31/12/2009
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;50167485;2009;31/12/2009
+Madrid-Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;48250784;2009;31/12/2009
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;45915069;2009;31/12/2009
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;45558807;2009;31/12/2009
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;43570370;2009;31/12/2009
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;40901752;2009;31/12/2009
+Suvarnabhumi Airport;Bang Phli, Samut Prakan, Greater Bangkok;Thailand;BKK;VTBS;40500224;2009;31/12/2009
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;40469012;2009;31/12/2009
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;40007354;2009;31/12/2009
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;PHX;KPHX;37824982;2009;31/12/2009
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;37338942;2009;31/12/2009
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;37203978;2009;31/12/2009
+Soekarno-Hatta International Airport;Cengkareng, Jakarta, Java;Indonesia;CGK;WIII;37143719;2009;31/12/2009
+Guangzhou Baiyun International Airport;Baiyun-Huadu District, Guangzhou, Guangdong;China;CAN;ZGGG;37048712;2009;31/12/2009
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;34536666;2009;31/12/2009
+Miami International Airport;Miami-Dade County, Florida;United States;MIA;KMIA;33886025;2009;31/12/2009
+Leonardo da Vinci Airport;Fiumicino, Rome;Italy;FCO;LIRF;33723213;2009;31/12/2009
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;33693649;2009;31/12/2009
+Sydney Airport;Sydney, New South Wales;Australia;SYD;YSSY;33451383;2009;31/12/2009
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;33399207;2009;31/12/2009
+Munich Airport;Munich, Bavaria;Germany;MUC;EDDM;32681067;2009;31/12/2009
+London Gatwick Airport;Crawley, West Sussex, England;United Kingdom;LGW;EGKK;32398979;2009;31/12/2009
+Minneapolis-Saint Paul International Airport;Fort Snelling, Minnesota;United States;MSP;KMSP;32378599;2009;31/12/2009
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;32135191;2009;31/12/2009
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;32102549;2009;31/12/2009
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan;United States;DTW;KDTW;31357388;2009;31/12/2009
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;31227512;2009;31/12/2009
+Philadelphia International Airport;Philadelphia, Pennsylvania;United States;PHL;KPHI;30669564;2009;31/12/2009
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;30368339;2009;31/12/2009
+Atatürk International Airport;Yesilköy, Istanbul;Turkey;IST;LTBA;29854119;2009;31/12/2009
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;29682093;2009;31/12/2009
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;28677161;2009;31/12/2009
+Barcelona Airport;Barcelona, Catalonia;Spain;BCN;LEBL;27301662;2009;31/12/2009
+Logan International Airport;Boston, Massachusetts;United States;BOS;KBOS;25512086;2009;31/12/2009
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;25252814;2009;31/12/2009
+Melbourne Airport;Melbourne, Victoria;Australia;MEL;YMML;25248762;2009;31/12/2009
+Paris-Orly Airport;Orly;France;ORY;LFPO;25107693;2009;31/12/2009
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;SHA;ZSSS;25078548;2009;31/12/2009
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;24804766;2009;31/12/2009
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;SZX;ZGSZ;24486406;2009;31/12/2009
+Benito Juárez International Airport;Mexico City;Mexico;MEX;MMMX;24243056;2009;31/12/2009
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;89331622;2010;31/12/2010
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;73948113;2010;31/12/2010
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;66774738;2010;31/12/2010
+London Heathrow Airport;Hillingdon, Greater London, England;United Kingdom;LHR;EGLL;65884143;2010;31/12/2010
+Tokyo International Airport;?ta, Tokyo;Japan;HND;RJTT;64211074;2010;31/12/2010
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;59070127;2010;31/12/2010
+Paris-Charles de Gaulle Airport;Roissy-en-France, Val d'Oise, Île-de-France;France;CDG;LFPG;58167062;2010;31/12/2010
+Dallas-Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;56906610;2010;31/12/2010
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;53009221;2010;31/12/2010
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;52209377;2010;31/12/2010
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;50348960;2010;31/12/2010
+Madrid-Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;49844596;2010;31/12/2010
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;47180628;2010;31/12/2010
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;46514154;2010;31/12/2010
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;45211749;2010;31/12/2010
+Soekarno-Hatta International Airport;Cengkareng, Jakarta, Java;Indonesia;CGK;WIII;44355998;2010;31/12/2010
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;BKK;VTBS;42784967;2010;31/12/2010
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;42038777;2010;31/12/2010
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;40975673;2010;31/12/2010
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;40578621;2010;31/12/2010
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;40479569;2010;31/12/2010
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;39757359;2010;31/12/2010
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;39253999;2010;31/12/2010
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;PHX;KPHX;38554215;2010;31/12/2010
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;38254207;2010;31/12/2010
+Leonardo da Vinci Airport;Fiumicino, Rome;Italy;FCO;LIRF;36227778;2010;31/12/2010
+Sydney Airport;Sydney, New South Wales;Australia;SYD;YSSY;35991917;2010;31/12/2010
+Miami International Airport;Miami-Dade County, Florida;United States;MIA;KMIA;35698025;2010;31/12/2010
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;34877899;2010;31/12/2010
+Munich Airport;Munich, Bavaria;Germany;MUC;EDDM;34721605;2010;31/12/2010
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;34087636;2010;31/12/2010
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;33815906;2010;31/12/2010
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;33605579;2010;31/12/2010
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;33133852;2010;31/12/2010
+Minneapolis-Saint Paul International Airport;Fort Snelling, Minnesota;United States;MSP;KMSP;32749649;2010;31/12/2010
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan;United States;DTW;KDTW;32377064;2010;31/12/2010
+Atatürk International Airport;Yesilköy, Istanbul;Turkey;IST;LTBA;32165817;2010;31/12/2010
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;31937895;2010;31/12/2010
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;31553166;2010;31/12/2010
+London Gatwick Airport;Crawley, West Sussex, England;United Kingdom;LGW;EGKK;31378644;2010;31/12/2010
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;SHA;ZSSS;31298812;2010;31/12/2010
+Philadelphia International Airport;Philadelphia, Pennsylvania;United States;PHL;KPHI;30775271;2010;31/12/2010
+Barcelona Airport;Barcelona, Catalonia;Spain;BCN;LEBL;29197135;2010;31/12/2010
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;28531607;2010;31/12/2010
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;28137797;2010;31/12/2010
+Melbourne Airport;Melbourne, Victoria;Australia;MEL;YMML;27731252;2010;31/12/2010
+São Paulo-Guarulhos International Airport;Guarulhos, São Paulo;Brazil;GRU;SBGR;27432346;2010;31/12/2010
+Logan International Airport;Boston, Massachusetts;United States;BOS;KBOS;27429152;2010;31/12/2010
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;MNL;RPLL;27148724;2010;31/12/2010
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;SZX;ZGSZ;26713610;2010;31/12/2010
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;92389023;2011;31/12/2011
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;78675058;2011;31/12/2011
+London Heathrow Airport;Hillingdon, London;United Kingdom;LHR;EGLL;69433565;2011;31/12/2011
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;66701241;2011;31/12/2011
+Tokyo International Airport;?ta, Tokyo;Japan;HND;RJTT;62584826;2011;31/12/2011
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;61862052;2011;31/12/2011
+Paris-Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;CDG;LFPG;60970551;2011;31/12/2011
+Dallas-Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;57832495;2011;31/12/2011
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;56436255;2011;31/12/2011
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;53328613;2011;31/12/2011
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;52849132;2011;31/12/2011
+Soekarno-Hatta International Airport;Cengkareng, Jakarta, Java;Indonesia;CGK;WIII;51533187;2011;31/12/2011
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;50977960;2011;31/12/2011
+Amsterdam Schiphol Airport;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;49755252;2011;31/12/2011
+Madrid Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;49653055;2011;31/12/2011
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;BKK;VTBS;47910904;2011;31/12/2011
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;47644060;2011;31/12/2011
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;46543845;2011;31/12/2011
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;45040340;2011;31/12/2011
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;41447730;2011;31/12/2011
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;40927786;2011;31/12/2011
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;PHX;KPHX;40591948;2011;31/12/2011
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;40560285;2011;31/12/2011
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;40128953;2011;31/12/2011
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;39043708;2011;31/12/2011
+Miami International Airport;Miami-Dade County, Florida;United States;MIA;KMIA;38314389;2011;31/12/2011
+Munich Airport;Munich, Bavaria;Germany;MUC;EDDM;37763701;2011;31/12/2011
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;37704510;2011;31/12/2011
+Leonardo da Vinci-Fiumicino Airport;Fiumicino, Rome;Italy;FCO;LIRF;37651222;2011;31/12/2011
+Atatürk International Airport;Istanbul;Turkey;IST;LTBA;37406025;2011;31/12/2011
+Sydney Airport;Sydney, New South Wales;Australia;SYD;YSSY;36022614;2011;31/12/2011
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;35356991;2011;31/12/2011
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;35191825;2011;31/12/2011
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;34729467;2011;31/12/2011
+Barcelona Airport;Barcelona, Catalonia;Spain;BCN;LEBL;34387597;2011;31/12/2011
+London Gatwick Airport;Crawley, West Sussex, England;United Kingdom;LGW;EGKK;33668048;2011;31/12/2011
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;33577154;2011;31/12/2011
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;33434199;2011;31/12/2011
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;SHA;ZSSS;33112442;2011;31/12/2011
+Minneapolis-Saint Paul International Airport;Fort Snelling, Minnesota;United States;MSP;KMSP;33074443;2011;31/12/2011
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;32820060;2011;31/12/2011
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan;United States;DTW;KDTW;32419181;2011;31/12/2011
+Philadelphia International Airport;Philadelphia, Pennsylvania;United States;PHL;KPHI;30839130;2011;31/12/2011
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;30439122;2011;31/12/2011
+São Paulo-Guarulhos International Airport;Guarulhos, São Paulo;Brazil;GRU;SBGR;30371131;2011;31/12/2011
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;MNL;RPLL;29551394;2011;31/12/2011
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;CTU;ZUUU;29073990;2011;31/12/2011
+Logan International Airport;Boston, Massachusetts;United States;BOS;KBOS;28866313;2011;31/12/2011
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;SZX;ZGSZ;28245745;2011;31/12/2011
+Melbourne Airport;Melbourne, Victoria;Australia;MEL;YMML;28060111;2011;31/12/2011
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;94956643;2012;31/12/2012
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;81929359;2012;31/12/2012
+London Heathrow Airport;Hillingdon, London;United Kingdom;LHR;EGLL;70037417;2012;31/12/2012
+Tokyo International Airport;?ta, Tokyo;Japan;HND;RJTT;67788722;2012;31/12/2012
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;66834931;2012;31/12/2012
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;63688121;2012;31/12/2012
+Paris-Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;CDG;LFPG;61611934;2012;31/12/2012
+Dallas-Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;58591842;2012;31/12/2012
+Soekarno-Hatta International Airport;Cengkareng, Tangerang, Banten;Indonesia;CGK;WIII;57730732;2012;31/12/2012
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;57684550;2012;31/12/2012
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;57520001;2012;31/12/2012
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;56064248;2012;31/12/2012
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;53156278;2012;31/12/2012
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;BKK;VTBS;53002328;2012;31/12/2012
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;51181804;2012;31/12/2012
+Amsterdam Schiphol Airport;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;51035590;2012;31/12/2012
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;49293587;2012;31/12/2012
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;48548430;2012;31/12/2012
+Madrid Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;45175501;2012;31/12/2012
+Atatürk International Airport;Istanbul;Turkey;IST;LTBA;44992420;2012;31/12/2012
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;44880164;2012;31/12/2012
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;44431894;2012;31/12/2012
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;41666527;2012;31/12/2012
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;41226035;2012;31/12/2012
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;PHX;KPHX;40452009;2012;31/12/2012
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;40022736;2012;31/12/2012
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;39887866;2012;31/12/2012
+Miami International Airport;Miami-Dade County, Florida;United States;MIA;KMIA;39467444;2012;31/12/2012
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;39154375;2012;31/12/2012
+Munich Airport;Munich, Bavaria;Germany;MUC;EDDM;38360604;2012;31/12/2012
+Sydney Airport;Sydney, New South Wales;Australia;SYD;YSSY;37342798;2012;31/12/2012
+Leonardo da Vinci-Fiumicino Airport;Fiumicino, Rome;Italy;FCO;LIRF;36980161;2012;31/12/2012
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;35214430;2012;31/12/2012
+Barcelona Airport;Barcelona, Catalonia;Spain;BCN;LEBL;35131771;2012;31/12/2012
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;34912456;2012;31/12/2012
+London Gatwick Airport;Crawley, West Sussex;United Kingdom;LGW;EGKK;34222405;2012;31/12/2012
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;34211608;2012;31/12/2012
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;33993962;2012;31/12/2012
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;SHA;ZSSS;33828726;2012;31/12/2012
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;33219723;2012;31/12/2012
+Minneapolis-Saint Paul International Airport;Fort Snelling, Minnesota;United States;MSP;KMSP;33125768;2012;31/12/2012
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;32874530;2012;31/12/2012
+São Paulo-Guarulhos International Airport;Guarulhos, São Paulo;Brazil;GRU;SBGR;32477646;2012;31/12/2012
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan;United States;DTW;KDTW;32205358;2012;31/12/2012
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;MNL;RPLL;31878935;2012;31/12/2012
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;CTU;ZUUU;31599353;2012;31/12/2012
+Philadelphia International Airport;Philadelphia, Pennsylvania;United States;PHL;KPHI;30228596;2012;31/12/2012
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;30038696;2012;31/12/2012
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;SZX;ZGSZ;29569725;2012;31/12/2012
+Tullamarine International Airport;Melbourne, Victoria;Australia;MEL;YMML;29431084;2012;31/12/2012
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;94430785;2013;31/12/2013
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;83712355;2013;31/12/2013
+Heathrow Airport;Hillingdon, London;United Kingdom;LHR;EGLL;72368030;2013;31/12/2013
+Tokyo Haneda Airport;?ta, Tokyo;Japan;HND;RJTT;68906636;2013;31/12/2013
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;66883271;2013;31/12/2013
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;66702252;2013;31/12/2013
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;66431533;2013;31/12/2013
+Paris-Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;CDG;LFPG;62052917;2013;31/12/2013
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;60436266;2013;31/12/2013
+Soekarno-Hatta International Airport;Cengkareng, Tangerang, Banten;Indonesia;CGK;WIII;59701543;2013;31/12/2013
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;59609414;2013;31/12/2013
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;58036948;2013;31/12/2013
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;53726087;2013;31/12/2013
+Amsterdam Schiphol Airport;Haarlemmermeer, North Holland;Netherlands;AMS;EHAM;52569250;2013;31/12/2013
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;52556359;2013;31/12/2013
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;52450262;2013;31/12/2013
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;BKK;VTBS;51363451;2013;31/12/2013
+Atatürk International Airport;Istanbul;Turkey;IST;LTBA;51172626;2013;31/12/2013
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;50413204;2013;31/12/2013
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;47498157;2013;31/12/2013
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;47189849;2013;31/12/2013
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;44944201;2013;31/12/2013
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;43456310;2013;31/12/2013
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;41856787;2013;31/12/2013
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;41679758;2013;31/12/2013
+Miami International Airport;Miami-Dade County, Florida;United States;MIA;KMIA;40563071;2013;31/12/2013
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;PHX;KPHX;40318451;2013;31/12/2013
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;39865325;2013;31/12/2013
+Madrid Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;39729027;2013;31/12/2013
+Munich Airport;Freising, Bavaria;Germany;MUC;EDDM;38672644;2013;31/12/2013
+Sydney Kingsford-Smith Airport;Sydney, New South Wales;Australia;SYD;YSSY;38254039;2013;31/12/2013
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;36712455;2013;31/12/2013
+São Paulo-Guarulhos International Airport;Guarulhos, São Paulo;Brazil;GRU;SBGR;36460923;2013;31/12/2013
+Leonardo da Vinci–Fiumicino Airport;Fiumicino, Lazio;Italy;FCO;LIRF;36165762;2013;31/12/2013
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;36037962;2013;31/12/2013
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;SHA;ZSSS;35599643;2013;31/12/2013
+London Gatwick Airport;Crawley, West Sussex;United Kingdom;LGW;EGKK;35448590;2013;31/12/2013
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;35341341;2013;31/12/2013
+Barcelona–El Prat Airport;Barcelona;Spain;BCN;LEBL;35210735;2013;31/12/2013
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;35016236;2013;31/12/2013
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;34973645;2013;31/12/2013
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;34824281;2013;31/12/2013
+Minneapolis/St Paul International Airport;St. Paul, Minnesota;United States;MSP;KMSP;33870693;2013;31/12/2013
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;CTU;ZUUU;33445817;2013;31/12/2013
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;MNL;RPLL;32856597;2013;31/12/2013
+Detroit Metropolitan Wayne County Airport;Detroit, Michigan;United States;DTW;KDTW;32389544;2013;31/12/2013
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;SZX;ZGSZ;32268457;2013;31/12/2013
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;31940026;2013;31/12/2013
+Benito Juárez International Airport;Venustiano Carranza, Mexico City;Mexico;MEX;MMMX;31534638;2013;31/12/2013
+Domodedovo International Airport;Domodedovo, Moscow Oblast;Russia;DME;UUDD;30765078;2013;31/12/2013
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;96178899;2014;31/12/2014
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;86128270;2014;31/12/2014
+London Heathrow Airport;Hillingdon, London;United Kingdom;LHR;EGLL;73408489;2014;31/12/2014
+Tokyo Haneda Airport;?ta, Tokyo;Japan;HND;RJTT;72826565;2014;31/12/2014
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;70663265;2014;31/12/2014
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;70475636;2014;31/12/2014
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;69999010;2014;31/12/2014
+Paris-Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;CDG;LFPG;63813756;2014;31/12/2014
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;63554402;2014;31/12/2014
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;63121786;2014;31/12/2014
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;59566132;2014;31/12/2014
+Soekarno-Hatta International Airport;Cengkareng, Banten;Indonesia;CGK;WIII;57221169;2014;31/12/2014
+Istanbul Atatürk Airport;Istanbul;Turkey;IST;LTBA;56767108;2014;31/12/2014
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;The Netherlands;AMS;EHAM;54978023;2014;31/12/2014
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;54780346;2014;31/12/2014
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;54093000;2014;31/12/2014
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;53472514;2014;31/12/2014
+John F. Kennedy International Airport;Queens, New York, New York;United States;JFK;KJFK;53254533;2014;31/12/2014
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;51687894;2014;31/12/2014
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;48930409;2014;31/12/2014
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;47114631;2014;31/12/2014
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;BKK;VTBS;46423352;2014;31/12/2014
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;45662322;2014;31/12/2014
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;44279504;2014;31/12/2014
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;42869517;2014;31/12/2014
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;PHX;KPHX;42125212;2014;31/12/2014
+Madrid Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;41822863;2014;31/12/2014
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;41239700;2014;31/12/2014
+Miami International Airport;Miami-Dade County, Florida;United States;MIA;KMIA;40941879;2014;31/12/2014
+São Paulo-Guarulhos International Airport;Guarulhos, São Paulo;Brazil;GRU;SBGR;39765714;2014;31/12/2014
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;39752819;2014;31/12/2014
+Munich Airport;Freising, Bavaria;Germany;MUC;EDDM;39700515;2014;31/12/2014
+Sydney Kingsford-Smith Airport;Mascot, Sydney, New South Wales;Australia;SYD;YSSY;38863380;2014;31/12/2014
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;38569088;2014;31/12/2014
+Leonardo da Vinci–Fiumicino Airport;Fiumicino, Lazio;Italy;FCO;LIRF;38506467;2014;31/12/2014
+London Gatwick Airport;Crawley, West Sussex;United Kingdom;LGW;EGKK;38105747;2014;31/12/2014
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;SHA;ZSSS;37971135;2014;31/12/2014
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;CTU;ZUUU;37712357;2014;31/12/2014
+Barcelona–El Prat Airport;Barcelona;Spain;BCN;LEBL;37540326;2014;31/12/2014
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;37497941;2014;31/12/2014
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;SZX;ZGSZ;36272701;2014;31/12/2014
+Taiwan Taoyuan International Airport;Dayuan, Taoyuan;Taiwan;TPE;RCTP;35804465;2014;31/12/2014
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;35714091;2014;31/12/2014
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;35610759;2014;31/12/2014
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;35535206;2014;31/12/2014
+Minneapolis/St Paul International Airport;St. Paul, Minnesota;United States;MSP;KMSP;35147083;2014;31/12/2014
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;34993738;2014;31/12/2014
+Benito Juárez International Airport;Venustiano Carranza, Mexico City;Mexico;MEX;MMMX;34255739;2014;31/12/2014
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;MNL;RPLL;34015169;2014;31/12/2014
+Domodedovo International Airport;Domodedovo, Moscow Oblast;Russia;DME;UUDD;33108047;2014;31/12/2014
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;101491106;2015;31/12/2015
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;89938628;2015;31/12/2015
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;78014841;2015;31/12/2015
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;76942493;2015;31/12/2015
+Tokyo Haneda Airport;?ta, Tokyo;Japan;HND;RJTT;75316718;2015;31/12/2015
+London Heathrow Airport;Hillingdon, London;United Kingdom;LHR;EGLL;74989795;2015;31/12/2015
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;74937004;2015;31/12/2015
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;68283407;2015;31/12/2015
+Paris-Charles de Gaulle Airport;Roissy-en-France, Île-de-France;France;CDG;LFPG;65766986;2015;31/12/2015
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;65512163;2015;31/12/2015
+Istanbul Atatürk Airport;Ye?ilköy, Istanbul;Turkey;IST;LTBA;61836781;2015;31/12/2015
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;61032022;2015;31/12/2015
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;60053387;2015;31/12/2015
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;The Netherlands;AMS;EHAM;58284864;2015;31/12/2015
+John F. Kennedy International Airport;Queens, New York;United States;JFK;KJFK;56827154;2015;31/12/2015
+Singapore Changi Airport;Changi;Singapore;SIN;WSSS;55449000;2015;31/12/2015
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;55201915;2015;31/12/2015
+Soekarno-Hatta International Airport;Tangerang, Banten;Indonesia;CGK;WIII;54053905;2015;31/12/2015
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;54014502;2015;31/12/2015
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;BKK;VTBS;52808013;2015;31/12/2015
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;50057887;2015;31/12/2015
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;49412750;2015;31/12/2015
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;48938424;2015;31/12/2015
+Madrid Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;46779554;2015;31/12/2015
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;45981773;2015;31/12/2015
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;45356580;2015;31/12/2015
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;44876627;2015;31/12/2015
+Miami International Airport;Miami-Dade County, Florida;United States;MIA;KMIA;44350247;2015;31/12/2015
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;PHX;KPHX;44003840;2015;31/12/2015
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;43023224;2015;31/12/2015
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;42340461;2015;31/12/2015
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;CTU;ZUUU;42244842;2015;31/12/2015
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;41036847;2015;31/12/2015
+Munich Airport;Freising, Bavaria;Germany;MUC;EDDM;40981522;2015;31/12/2015
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;40637377;2015;31/12/2015
+Leonardo da Vinci–Fiumicino Airport;Fiumicino, Lazio;Italy;FCO;LIRF;40422156;2015;31/12/2015
+London Gatwick Airport;Crawley, West Sussex;United Kingdom;LGW;EGKK;40271343;2015;31/12/2015
+Sydney Kingsford-Smith Airport;Mascot, Sydney, New South Wales;Australia;SYD;YSSY;39914103;2015;31/12/2015
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;SZX;ZGSZ;39721619;2015;31/12/2015
+Barcelona–El Prat Airport;Barcelona;Spain;BCN;LEBL;39674095;2015;31/12/2015
+São Paulo-Guarulhos International Airport;Guarulhos, São Paulo;Brazil;GRU;SBGR;39213865;2015;31/12/2015
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;SHA;ZSSS;39090699;2015;31/12/2015
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;38727749;2015;31/12/2015
+Taiwan Taoyuan International Airport;Dayuan, Taoyuan;Taiwan;TPE;RCTP;38473333;2015;31/12/2015
+Benito Juárez International Airport;Venustiano Carranza, Mexico City;Mexico;MEX;MMMX;38433288;2015;31/12/2015
+Kunming Changshui International Airport;Guandu, Kunming, Yunnan;China;KMG;ZPPP;37523345;2015;31/12/2015
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;37494704;2015;31/12/2015
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;37268307;2015;31/12/2015
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;MNL;RPLL;36583459;2015;31/12/2015
+Minneapolis/St Paul International Airport;St. Paul, Minnesota;United States;MSP;KMSP;36556281;2015;31/12/2015
+Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia;United States;ATL;KATL;104171935;2016;31/12/2016
+Beijing Capital International Airport;Chaoyang-Shunyi, Beijing;China;PEK;ZBAA;94393454;2016;31/12/2016
+Dubai International Airport;Garhoud, Dubai;United Arab Emirates;DXB;OMDB;83654250;2016;31/12/2016
+Los Angeles International Airport;Los Angeles, California;United States;LAX;KLAX;80921527;2016;31/12/2016
+Tokyo International Airport;?ta, Tokyo;Japan;HND;RJTT;79699762;2016;31/12/2016
+O'Hare International Airport;Chicago, Illinois;United States;ORD;KORD;78327479;2016;31/12/2016
+Heathrow Airport;Hillingdon, London;United Kingdom;LHR;EGLL;75715474;2016;31/12/2016
+Hong Kong International Airport;Chek Lap Kok, Hong Kong;China;HKG;VHHH;70314462;2016;31/12/2016
+Shanghai Pudong International Airport;Pudong, Shanghai;China;PVG;ZSPD;66002414;2016;31/12/2016
+Charles de Gaulle Airport;Paris (Roissy-en-France), Île-de-France;France;CDG;LFPG;65933145;2016;31/12/2016
+Dallas/Fort Worth International Airport;Dallas-Fort Worth, Texas;United States;DFW;KDFW;65670697;2016;31/12/2016
+Amsterdam Airport Schiphol;Haarlemmermeer, North Holland;The Netherlands;AMS;EHAM;63625534;2016;31/12/2016
+Frankfurt Airport;Frankfurt, Hesse;Germany;FRA;EDDF;60786937;2016;31/12/2016
+Istanbul Atatürk Airport;Ye?ilköy, Istanbul;Turkey;IST;LTBA;60248741;2016;31/12/2016
+Guangzhou Baiyun International Airport;Baiyun-Huadu, Guangzhou, Guangdong;China;CAN;ZGGG;59732147;2016;31/12/2016
+John F. Kennedy International Airport;Queens, New York City, New York;United States;JFK;KJFK;58813103;2016;31/12/2016
+Singapore Changi Airport;Changi, Singapore;Singapore;SIN;WSSS;58698000;2016;31/12/2016
+Denver International Airport;Denver, Colorado;United States;DEN;KDEN;58266515;2016;31/12/2016
+Seoul Incheon International Airport;Incheon;Republic of Korea;ICN;RKSI;57849814;2016;31/12/2016
+Suvarnabhumi Airport;Bang Phli, Samut Prakan;Thailand;BKK;VTBS;55892428;2016;31/12/2016
+Indira Gandhi International Airport;Delhi;India;DEL;VIDP;55631385;2016;31/12/2016
+Soekarno–Hatta International Airport;Tangerang, Banten;Indonesia;CGK;WIII;54969536;2016;31/12/2016
+San Francisco International Airport;San Mateo County, California;United States;SFO;KSFO;53099282;2016;31/12/2016
+Kuala Lumpur International Airport;Sepang, Selangor;Malaysia;KUL;WMKK;52640043;2016;31/12/2016
+Madrid Barajas Airport;Barajas, Madrid;Spain;MAD;LEMD;50397928;2016;31/12/2016
+McCarran International Airport;Las Vegas, Nevada;United States;LAS;KLAS;47496614;2016;31/12/2016
+Chengdu Shuangliu International Airport;Shuangliu-Wuhou, Chengdu, Sichuan;China;CTU;ZUUU;46039137;2016;31/12/2016
+Seattle-Tacoma International Airport;SeaTac, Washington;United States;SEA;KSEA;45736700;2016;31/12/2016
+Chhatrapati Shivaji International Airport;Mumbai, Maharashtra;India;BOM;VABB;44680555;2016;31/12/2016
+Miami International Airport;Miami-Dade County, Florida;United States;MIA;KMIA;44584603;2016;31/12/2016
+Charlotte Douglas International Airport;Charlotte, North Carolina;United States;CLT;KCLT;44422022;2016;31/12/2016
+Toronto Pearson International Airport;Mississauga, Ontario;Canada;YYZ;CYYZ;44335198;2016;31/12/2016
+Barcelona–El Prat Airport;El Prat, Catalonia;Spain;BCN;LEBL;44131031;2016;31/12/2016
+Phoenix Sky Harbor International Airport;Phoenix, Arizona;United States;PHX;KPHX;43302381;2016;31/12/2016
+Gatwick Airport;Crawley, West Sussex;United Kingdom;LGW;EGKK;43136795;2016;31/12/2016
+Taiwan Taoyuan International Airport;Dayuan, Taoyuan;Taiwan;TPE;RCTP;42296322;2016;31/12/2016
+Munich Airport;Freising, Bavaria;Germany;MUC;EDDM;42261309;2016;31/12/2016
+Sydney Kingsford-Smith Airport;Mascot, Sydney, New South Wales;Australia;SYD;YSSY;41985810;2016;31/12/2016
+Kunming Changshui International Airport;Guandu, Kunming, Yunnan;China;KMG;ZPPP;41980515;2016;31/12/2016
+Shenzhen Bao'an International Airport;Bao'an, Shenzhen, Guangdong;China;SZX;ZGSZ;41975090;2016;31/12/2016
+Orlando International Airport;Orlando, Florida;United States;MCO;KMCO;41923399;2016;31/12/2016
+Leonardo da Vinci–Fiumicino Airport;Fiumicino, Lazio;Italy;FCO;LIRF;41738662;2016;31/12/2016
+George Bush Intercontinental Airport;Houston, Texas;United States;IAH;KIAH;41622594;2016;31/12/2016
+Benito Juárez International Airport;Venustiano Carranza, Mexico City;Mexico;MEX;MMMX;41410254;2016;31/12/2016
+Shanghai Hongqiao International Airport;Changning-Minhang, Shanghai;China;SHA;ZSSS;40460135;2016;31/12/2016
+Newark Liberty International Airport;Newark, New Jersey;United States;EWR;KEWR;40289969;2016;31/12/2016
+Ninoy Aquino International Airport;Pasay/Parañaque, Metro Manila;Philippines;MNL;RPLL;39534991;2016;31/12/2016
+Narita International Airport;Narita, Chiba;Japan;NRT;RJAA;39000563;2016;31/12/2016
+Minneapolis/St Paul International Airport;St. Paul, Minnesota;United States;MSP;KMSP;37413728;2016;31/12/2016
+Hamad International Airport;Doha;Qatar;DOH;OTHH;37283987;2016;31/12/2016

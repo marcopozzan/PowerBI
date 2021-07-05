@@ -1,0 +1,51 @@
+﻿CodeIATA,CodeICAO,Airport,Country,Location,Total passengers
+AMS,EHAM,Amsterdam Airport Schiphol,The Netherlands,"Haarlemmermeer, North Holland",63625664
+ATL,KATL,Hartsfield–Jackson Atlanta International Airport,United States,"Atlanta, Georgia",104171935
+BCN,LEBL,Barcelona–El Prat Airport,Spain,Barcelona,44154693
+BKK,VTBS,Suvarnabhumi Airport,Thailand,"Bang Phli, Samut Prakan",55892428
+BOM,VABB,Chhatrapati Shivaji International Airport,India,"Mumbai, Maharashtra",44680555
+CAN,ZGGG,Guangzhou Baiyun International Airport,China,"Baiyun-Huadu, Guangzhou, Guangdong",59732147
+CDG,LFPG,Paris-Charles de Gaulle Airport,France,"Roissy-en-France, Île-de-France",65933145
+CGK,WIII,Soekarno–Hatta International Airport,Indonesia,"Tangerang, Banten",54145000
+CLT,KCLT,Charlotte Douglas International Airport,United States,"Charlotte, North Carolina",44422022
+CTU,ZUUU,Chengdu Shuangliu International Airport,China,"Shuangliu-Wuhou, Chengdu, Sichuan",46039037
+DEL,VIDP,Indira Gandhi International Airport,India,Delhi,55631385
+DEN,KDEN,Denver International Airport,United States,"Denver, Colorado",58266515
+DFW,KDFW,Dallas/Fort Worth International Airport,United States,"Dallas-Fort Worth, Texas",65670697
+DOH,OTHH,Hamad International Airport,Qatar,Doha,37322843
+DXB,OMDB,Dubai International Airport,United Arab Emirates,"Garhoud, Dubai",83654250
+EWR,KEWR,Newark Liberty International Airport,United States,"Newark, New Jersey",40351331
+FCO,LIRF,Leonardo da Vinci–Fiumicino Airport,Italy,"Fiumicino, Lazio",41738524
+FRA,EDDF,Frankfurt Airport,Germany,"Frankfurt, Hesse",60786937
+HKG,VHHH,Hong Kong International Airport,China,"Chek Lap Kok, Hong Kong",70516000
+HND,RJTT,Tokyo Haneda Airport,Japan,"Ōta, Tokyo",79520000
+IAH,KIAH,George Bush Intercontinental Airport,United States,"Houston, Texas",41615689
+ICN,RKSI,Seoul Incheon International Airport,Republic of Korea,Incheon,57765397
+IST,LTBA,Istanbul Atatürk Airport,Turkey,"Yeşilköy, Istanbul",60119215
+JFK,KJFK,John F. Kennedy International Airport,United States,"Queens, New York, New York",58956288
+KMG,ZPPP,Kunming Changshui International Airport,China,"Guandu District, Kunming, Yunnan",41980339
+KUL,WMKK,Kuala Lumpur International Airport,Malaysia,"Sepang, Selangor",52624000
+LAS,KLAS,McCarran International Airport,United States,"Las Vegas, Nevada",47435640
+LAX,KLAX,Los Angeles International Airport,United States,"Los Angeles, California",80921527
+LGW,EGKK,London Gatwick Airport,United Kingdom,"Crawley, West Sussex",43119628
+LHR,EGLL,London Heathrow Airport,United Kingdom,"Hillingdon, London",75711130
+MAD,LEMD,Madrid Barajas Airport,Spain,"Barajas, Madrid",50420583
+MCO,KMCO,Orlando International Airport,United States,"Orlando, Florida",41923399
+MEX,MMMX,Benito Juárez International Airport,Mexico,"Venustiano Carranza, Mexico City",41710254
+MIA,KMIA,Miami International Airport,United States,"Miami-Dade County, Florida",44584603
+MNL,RPLL,Ninoy Aquino International Airport,Philippines,"Pasay/Parañaque, Metro Manila",39516782
+MSP,KMSP,Minneapolis/St Paul International Airport,United States,"St. Paul, Minnesota",37517957
+MUC,EDDM,Munich Airport,Germany,"Freising, Bavaria",42261309
+NRT,RJAA,Narita International Airport,Japan,"Narita, Chiba",39053652
+ORD,KORD,O'Hare International Airport,United States,"Chicago, Illinois",77960588
+PEK,ZBAA,Beijing Capital International Airport,China,"Chaoyang-Shunyi, Beijing",94393454
+PHX,KPHX,Phoenix Sky Harbor International Airport,United States,"Phoenix, Arizona",43383528
+PVG,ZSPD,Shanghai Pudong International Airport,China,"Pudong, Shanghai",66002414
+SEA,KSEA,Seattle-Tacoma International Airport,United States,"SeaTac, Washington",45736700
+SFO,KSFO,San Francisco International Airport,United States,"San Mateo County, California",53106505
+SHA,ZSSS,Shanghai Hongqiao International Airport,China,"Changning-Minhang, Shanghai",40460135
+SIN,WSSS,Singapore Changi Airport,Singapore,Changi,58698039
+SYD,YSSY,Sydney Kingsford-Smith Airport,Australia,"Mascot, Sydney, New South Wales",41870000
+SZX,ZGSZ,Shenzhen Bao'an International Airport,China,"Bao'an, Shenzhen, Guangdong",41975090
+TPE,RCTP,Taiwan Taoyuan International Airport,Taiwan,"Dayuan, Taoyuan",42296322
+YYZ,CYYZ,Toronto Pearson International Airport,Canada,"Mississauga, Ontario",44335198

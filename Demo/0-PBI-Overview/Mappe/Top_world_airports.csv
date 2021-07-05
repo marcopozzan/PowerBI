@@ -1,0 +1,51 @@
+IATA_FAA;ICAO;AirportName;AirportCity;AirportCountry;Latitude;Longitude;Altitude
+YYZ;CYYZ;Lester B Pearson Intl;Toronto;Canada;43,677223;-79,630556;569
+FRA;EDDF;Frankfurt Main;Frankfurt;Germany;50,026421;8,543125;364
+MUC;EDDM;Franz Josef Strauss;Munich;Germany;48,353783;11,786086;1487
+LGW;EGKK;Gatwick;London;United Kingdom;51,148056;-0,190278;202
+LHR;EGLL;Heathrow;London;United Kingdom;51,4775;-0,461389;83
+AMS;EHAM;Schiphol;Amsterdam;Netherlands;52,308613;4,763889;-11
+BCN;LEBL;Barcelona;Barcelona;Spain;41,297078;2,078464;12
+MAD;LEMD;Barajas;Madrid;Spain;40,493556;-3,566764;2000
+CDG;LFPG;Charles De Gaulle;Paris;France;49,012779;2,55;392
+FCO;LIRF;Fiumicino;Rome;Italy;41,804475;12,250797;15
+IST;LTBA;Ataturk;Istanbul;Turkey;40,976922;28,814606;163
+MEX;MMMX;Licenciado Benito Juarez Intl;Mexico City;Mexico;19,436303;-99,072097;7316
+DXB;OMDB;Dubai Intl;Dubai;United Arab Emirates;25,252778;55,364444;62
+DOH;OTBD;Doha Intl;Doha;Qatar;25,261125;51,565056;35
+TPE;RCTP;Taoyuan Intl;Taipei;Taiwan;25,077731;121,232822;106
+NRT;RJAA;Narita Intl;Tokyo;Japan;35,764722;140,386389;141
+HND;RJTT;Tokyo Intl;Tokyo;Japan;35,552258;139,779694;35
+MNL;RPLL;Ninoy Aquino Intl;Manila;Philippines;14,508647;121,019581;75
+BOM;VABB;Chhatrapati Shivaji Intl;Mumbai;India;19,088686;72,867919;37
+HKG;VHHH;Hong Kong Intl;Hong Kong;Hong Kong;22,308919;113,914603;28
+DEL;VIDP;Indira Gandhi Intl;Delhi;India;28,5665;77,103088;777
+ICN;RKSI;Incheon Intl;Seoul;South Korea;37,469075;126,450517;23
+CGK;WIII;Soekarno Hatta Intl;Jakarta;Indonesia;-6,125567;106,655897;34
+KUL;WMKK;Kuala Lumpur Intl;Kuala Lumpur;Malaysia;2,745578;101,709917;69
+SIN;WSSS;Changi Intl;Singapore;Singapore;1,350189;103,994433;22
+SYD;YSSY;Sydney Intl;Sydney;Australia;-33,946111;151,177222;21
+PEK;ZBAA;Capital Intl;Beijing;China;40,080111;116,584556;116
+CAN;ZGGG;Baiyun Intl;Guangzhou;China;23,392436;113,298786;50
+SZX;ZGSZ;Baoan Intl;Shenzhen;China;22,639258;113,810664;13
+KMG;ZPPP;Wujiaba;Kunming;China;24,992364;102,743536;6217
+SHA;ZSSS;Hongqiao Intl;Shanghai;China;31,197875;121,336319;10
+CTU;ZUUU;Shuangliu;Chengdu;China;30,578528;103,947086;1625
+PVG;ZSPD;Pudong;Shanghai;China;31,143378;121,805214;13
+PHX;KPHX;Phoenix Sky Harbor Intl;Phoenix;United States;33,434278;-112,011583;1135
+SFO;KSFO;San Francisco Intl;San Francisco;United States;37,618972;-122,374889;13
+LAX;KLAX;Los Angeles Intl;Los Angeles;United States;33,942536;-118,408075;126
+EWR;KEWR;Newark Liberty Intl;Newark;United States;40,6925;-74,168667;18
+IAH;KIAH;George Bush Intercontinental;Houston;United States;29,984433;-95,341442;97
+MIA;KMIA;Miami Intl;Miami;United States;25,79325;-80,290556;8
+SEA;KSEA;Seattle Tacoma Intl;Seattle;United States;47,449;-122,309306;433
+DFW;KDFW;Dallas Fort Worth Intl;Dallas-Fort Worth;United States;32,896828;-97,037997;607
+ATL;KATL;Hartsfield Jackson Atlanta Intl;Atlanta;United States;33,636719;-84,428067;1026
+DEN;KDEN;Denver Intl;Denver;United States;39,861656;-104,673178;5431
+JFK;KJFK;John F Kennedy Intl;New York;United States;40,639751;-73,778925;13
+ORD;KORD;Chicago Ohare Intl;Chicago;United States;41,978603;-87,904842;668
+MSP;KMSP;Minneapolis St Paul Intl;Minneapolis;United States;44,881956;-93,221767;841
+CLT;KCLT;Charlotte Douglas Intl;Charlotte;United States;35,214;-80,943139;748
+LAS;KLAS;Mc Carran Intl;Las Vegas;United States;36,080056;-115,15225;2141
+MCO;KMCO;Orlando Intl;Orlando;United States;28,429394;-81,308994;96
+BKK;VTBS;Suvarnabhumi Intl;Bangkok;Thailand;13,681108;100,747283;5
